@@ -1,0 +1,16 @@
+.page-footer{
+    background-color: #000000;
+    display: block;
+    position: static;
+    /* clear: both; */
+}
+
+.copy-text{
+    color: #ffffff;
+    margin: 10px;
+    padding: 0%;
+}
+.fa{
+    color: #ffffff;
+    vertical-align: -25%;
+}

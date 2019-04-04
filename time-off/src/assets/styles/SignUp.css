@@ -1,0 +1,27 @@
+.signupPos{
+    width: 140vh;
+    margin-top: 2vh;
+    margin-left: -3vh;
+    border-radius: 2vh;
+    border-style: outset;
+    /* border: 2vh; */
+    border-width: 2px;
+    justify-content: center;
+    padding: 3vh;
+}
+
+.signupBtnPos{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.signupBtnPos > button{
+    margin-top: 5vh;
+    font-weight: 900;
+}
+.SignupError{
+    font-size: 12px;
+    color: #ff0404;
+}
+

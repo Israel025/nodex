@@ -1,0 +1,63 @@
+.abReq-header{
+    background-color:#000000;
+}
+
+.abReq-left-png{
+    margin-left: 0;
+}
+
+.abReq-top-right{
+    display: flex;
+}
+
+.abReq-admin-links{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 30px;
+}
+
+.abReq-logout-btn{
+    font-weight: bold;
+}
+
+.abReq-links{
+    text-decoration: none;
+    margin: 2px;
+    font-weight: bold;
+}
+
+.abReq-link-color{
+    color: #acd1f3;
+}
+
+.abReq-submit{
+    justify-content: center;
+    text-align: center;
+}
+
+.abReq-submit > button{
+    margin-top: 5vh;
+    font-weight: 900;
+}
+
+.abReq-form-div{
+    justify-content: center;
+}
+
+.abReq-formPos{
+    width: 110vh;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    border-radius: 2vh;
+    border-style: outset;
+    border-width: 2px;
+}
+
+.abReq-form{
+    padding: 10px;
+}
+
+.abReqError{
+    font-size: 12px;
+    color: #ff0404;
+}
